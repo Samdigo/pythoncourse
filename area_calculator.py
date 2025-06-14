@@ -24,3 +24,4 @@ triangle_area =(triangle_base * triangle_height) *1/2
 print (f"area of triangle is {triangle_area}")
 
 
+car = "toyota"
